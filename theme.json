@@ -9,49 +9,49 @@
    ],
    "semanticColors":{
       "HEADER_PRIMARY":[
-         "#f3bae5"
+         "#5a36ff"
       ],
       "HEADER_SECONDARY":[
-         "#e1a9cf"
+         "#5a36ff"
       ],
       "TEXT_NORMAL":[
-         "#ebe3f7"
+         "#5530ff"
       ],
       "TEXT_MUTED":[
-         "#d07cb4"
+         "#000000"
       ],
       "INTERACTIVE_NORMAL":[
-         "#dd9cb4"
+         "#5a36ff"
       ],
       "INTERACTIVE_HOVER":[
-         "#5070a7"
+         "#140c39"
       ],
       "INTERACTIVE_ACTIVE":[
-         "#fce3f8"
+         "#5530ff"
       ],
       "INTERACTIVE_MUTED":[
-         "#5b5978"
+         "#110255"
       ],
       "BACKGROUND_PRIMARY":[
-         "#0e1623"
+         "#140c39"
       ],
       "BACKGROUND_SECONDARY":[
-         "#0f1221"
+         "#110255"
       ],
       "BACKGROUND_SECONDARY_ALT":[
-         "#20253c"
+         "#110255"
       ],
       "BACKGROUND_TERTIARY":[
-         "#171a30"
+         "#140c39"
       ],
       "BACKGROUND_ACCENT":[
-         "#e090bb"
+         "#5a36ff"
       ],
       "BACKGROUND_FLOATING":[
          "#0f1725"
       ],
       "BACKGROUND_MOBILE_PRIMARY":[
-         "#151c29"
+         "#110255"
       ],
       "BG_BASE_TERTIARY":[
          "#151b2a"
@@ -60,25 +60,25 @@
          "#131927"
       ],
       "BACKGROUND_MOBILE_SECONDARY":[
-         "#121929"
+         "#5a36ff"
       ],
       "BACKGROUND_NESTED_FLOATING":[
          "#121825"
       ],
       "BACKGROUND_MESSAGE_HOVER":[
-         "#7386a7"
+         "#140c39"
       ],
       "BACKGROUND_MODIFIER_HOVER":[
-         "#323953"
+         "#140c39"
       ],
       "BACKGROUND_MODIFIER_ACTIVE":[
-         "#2a324e45"
+         "#110255"
       ],
       "BACKGROUND_MODIFIER_SELECTED":[
-         "#39455a"
+         "#110255"
       ],
       "BACKGROUND_MODIFIER_ACCENT":[
-         "#0e1520"
+         "#5a36ff"
       ],
       "SCROLLBAR_THIN_THUMB":[
          "#30445f"
@@ -102,7 +102,7 @@
          "#ec97ba"
       ],
       "TEXT_DANGER":[
-         "#b75057"
+         "#000000"
       ],
       "KEYBOARD":[
          "#151c32"
@@ -165,7 +165,7 @@
       "GREEN_600":"#648db8",
       "RED_400":"#5d63b2",
       "WHITE_500":"#e5eff7",
-      "PLUM_1":"#5a36ff",
+      "PLUM_1":"#5530ff",
       "PLUM_10":"#5a36ff",
       "PLUM_11":"#5a36ff",
       "PLUM_13":"#5a36ff",
