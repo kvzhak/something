@@ -1,0 +1,36 @@
+{
+    "meta": {
+        "name": "BlurpleTheme",
+        "author": "YourName",
+        "version": "1.0.0",
+        "description": "A Vendetta theme with blurple colors"
+    },
+    "semanticColors": {
+        "BACKGROUND_PRIMARY": "#7289DA",
+        "BACKGROUND_SECONDARY": "#4A5A96",
+        "BACKGROUND_TERTIARY": "#3C45A5",
+        "TEXT_NORMAL": "#FFFFFF",
+        "TEXT_MUTED": "#99AAB5",
+        "BRAND_PRIMARY": "#5865F2",
+        "BRAND_SECONDARY": "#7289DA",
+        "BUTTON_PRIMARY_BACKGROUND": "#5865F2",
+        "BUTTON_PRIMARY_TEXT": "#FFFFFF",
+        "BUTTON_SECONDARY_BACKGROUND": "#4A5A96",
+        "BUTTON_SECONDARY_TEXT": "#FFFFFF",
+        "INTERACTIVE_NORMAL": "#7289DA",
+        "INTERACTIVE_HOVER": "#5865F2"
+    },
+    "rawColors": {
+        "--background-primary": "#7289DA",
+        "--background-secondary": "#4A5A96",
+        "--background-tertiary": "#3C45A5",
+        "--background-accent": "#2C2F33",
+        "--text-normal": "#FFFFFF",
+        "--text-muted": "#99AAB5",
+        "--text-accent": "#7289DA",
+        "--interactive-normal": "#5865F2",
+        "--interactive-hover": "#4A5A96",
+        "--scrollbar-background": "#3C45A5",
+        "--scrollbar-thumb": "#2C2F33"
+    }
+}
